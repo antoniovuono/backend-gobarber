@@ -2,12 +2,6 @@
   🚀️ Back-end ♂️️ GoBarber ✂️
 </h1>
 
-<p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/jerp86/iniciando-back-end">
-
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/jerp86/iniciando-back-end?logo=typescript">
-
-  <img alt="GitHub repo size in bytes" src="https://img.shields.io/github/repo-size/jerp86/iniciando-back-end?color=green">
 
   <br>
 
