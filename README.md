@@ -146,21 +146,6 @@ Para instalar as dependências e iniciar o projeto, você pode utilizar o Yarn o
 
 ---
 
-<h4 align="center">
-  Feito com ❤️ por Jerp86 👋️ <a href="mailto:jerp4@hotmail.com">Entre em contato!</a>
-</h4>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/jerp/">
-    <img alt="José Eduardo Rodrigues Pinto" src="https://img.shields.io/badge/LinkedIn-jerp-0e76a8?style=flat&logoColor=white&logo=linkedin">
-  </a>
-  <a href="https://www.facebook.com/jerpbtu">
-    <img alt="José Eduardo Rodrigues Pinto" src="https://img.shields.io/badge/Facebook-jerpbtu-1778F2?style=flat&logoColor=white&logo=facebook">
-  </a>
-  <a href="https://www.instagram.com/jerpbtu/">
-    <img alt="José Eduardo Rodrigues Pinto" src="https://img.shields.io/badge/Instagram-@jerpbtu-833AB4?style=flat&logoColor=white&logo=instagram">
-  </a>
-  <a href="https://twitter.com/jerpbtu">
-    <img alt="José Eduardo Rodrigues Pinto" src="https://img.shields.io/twitter/follow/jerpbtu?style=flat&logoColor=white&logo=Twitter">
   </a>
 </p>
