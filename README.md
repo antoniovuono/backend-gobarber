@@ -18,12 +18,6 @@
 
 ---
 
-<p align="center">
-  <img alt="Test Results" src="./assets/testRestults.png" style="width:65%;"/>
-</p>
-
----
-
 # Indice
 
 - :rocket: [Sobre o Projeto](#rocket-sobre-o-projeto)
