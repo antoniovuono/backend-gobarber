@@ -3,19 +3,6 @@
 </h1>
 
 
-  <br>
-
-  <a href="https://app.codacy.com/manual/jerp86/iniciando-back-end?utm_source=github.com&utm_medium=referral&utm_content=jerp86/iniciando-back-end&utm_campaign=Badge_Grade_Dashboard">
-    <img alt="Codacy Badge" src="https://api.codacy.com/project/badge/Grade/cbc534ad09fd46b28d73b4c4e22a0667">
-  </a>
-
-  <img alt="GitHub code size in bytes" src="https://img.shields.io/github/last-commit/jerp86/iniciando-back-end">
-
-  <a href="https://www.linkedin.com/in/jerp/">
-    <img alt="Made by Jerp86" src="https://img.shields.io/badge/made%20by-Jerp86-%2304D361">
-  </a>
-</p>
-
 ---
 
 # Indice
@@ -31,7 +18,7 @@
 
 A proposta do curso **Bootcamp GoStack** da [Rocketseat](https://rocketseat.com.br/) é desenvolver uma aplicação completa para barbearias e salões de beleza chamada GoBarber, onde os prestadores de serviço possam informar seus dias e horários disponíveis para o trabalho, enquanto os clientes possam optar pelo profissional que melhor se enquadre em sua escolha de dia e horário.
 
-O **Iniciando Back-end** é a construção do que será o Back-end do projeto final curso, o 💈️💇‍♂️️ **GoBarber** 💅️✂️.
+O **Iniciando Back-end** é a construção do que será o Back-end do projeto final curso, o ♂️️ **GoBarber** ✂️.
 
 Este projeto de Back-end será desenvolvido em Node.js com TypeScript no formato RESTFull utilizando as metodologias [DDD (Domain Driven Design)](https://en.wikipedia.org/wiki/Domain-driven_design) e [TDD (Test Driven Development)](https://pt.wikipedia.org/wiki/Test-driven_development).
 
